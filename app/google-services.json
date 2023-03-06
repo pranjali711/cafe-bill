@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1800131235",
+    "firebase_url": "https://cafe-bill-default-rtdb.firebaseio.com",
+    "project_id": "cafe-bill",
+    "storage_bucket": "cafe-bill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1800131235:android:4d1b04abef34a44c9ee516",
+        "android_client_info": {
+          "package_name": "com.pranjal.cafebill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1800131235-5qphfk533eotg56mfu3anhv1df5l591a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsEVrl2prRo7ysY7lF03eS5veW8J36hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1800131235-5qphfk533eotg56mfu3anhv1df5l591a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
